@@ -8,8 +8,8 @@ export const binance = new ccxt.binance({
   },  
   urls: {  
     api: {  
-      public: 'https://demo-fapi.binance.com/fapi',  
-      private: 'https://demo-fapi.binance.com/fapi',  
+      public: "https://testnet.binancefuture.com/fapi",  
+      private: "https://testnet.binancefuture.com/fapi",  
     }  
   }  
 });
