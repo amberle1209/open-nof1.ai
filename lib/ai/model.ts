@@ -16,3 +16,6 @@ export const deepseekR1 = openrouter("deepseek/deepseek-r1-0528");
 export const deepseek = deepseekModel("deepseek-chat");
 
 export const deepseekThinking = deepseekModel("deepseek-reasoner");
+
+export const deepseekR1Official = deepseekModel("deepseek-r1");
+
